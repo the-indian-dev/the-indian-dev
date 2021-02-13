@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @the-indian-dev. I am a 13 yo dev from Angul, Odisha, India.
-- 👀 I’m interested in Programming, Badminton, Physics.
+- 👀 I’m interested in Programming, Badminton, Physics and Aviation.
 - 🌱 I’m currently learning C++
