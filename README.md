@@ -1,3 +1,10 @@
-- 👋 Hi, I’m @the-indian-dev. I am a 13 yo student dev from Angul, Odisha, India.
-- 👀 I’m interested in Programming, Badminton, Physics and Aviation.
-- 🌱 I’m currently learning C++
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi I am @the-indian-dev. I am a student software developer based in India. Except coding I like badminton and Physics.
+# How to reach me 📬
+Contact Me on Discord ``the_indian_dev#4200``
+# Some Info About Me 📝
+![the-indian-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-indian-dev&count_private=true&show_icons=true&theme=dracula)
+# Some Of My Projects 🌟
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=ysf-zl-remover-adder&theme=dracula)](https://github.com/the-indian-dev/ysf-zl-remover-adder)
+# Stuff I know 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=javascript,html,css,scss&theme=dracula)
