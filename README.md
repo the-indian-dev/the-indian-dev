@@ -9,4 +9,6 @@ Debian Gang 😎
 # Some Of My Projects 🌟
 [![YSF-ZL-Remover](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=ysf-zl-remover-adder&theme=dracula)](https://github.com/the-indian-dev/ysf-zl-remover-adder)
 # Stuff I know 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=javascript,html,css,scss&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=javascript,html,css,scss&theme=dracula)  
+
+<center><p align="center"><a href="https://www.youtube.com/watch?v=chf71h2RSxc"><img src="https://theindiandev.xyz/durga-ascii.png" alt="durga ascii art" width="512" height="462.5"/></a><br>ASCII art of Durga : A Hindu godess</p>
