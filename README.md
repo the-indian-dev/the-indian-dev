@@ -8,5 +8,9 @@ Debian Gang 😎
 ![the-indian-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-indian-dev&count_private=true&show_icons=true&theme=dracula)
 # Some Of My Projects 🌟
 [![YSF-ZL-Remover](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=ysf-zl-remover-adder&theme=dracula)](https://github.com/the-indian-dev/ysf-zl-remover-adder)
+[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=personal-website&theme=dracula)](https://github.com/the-indian-dev/personal-website)
 # Stuff I know 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=javascript,html,css,scss&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=java,c,C++,dart,javascript&theme=dracula)  
+# Tools 🔧
+![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Main%20Editor-PyCharm-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
