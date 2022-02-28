@@ -14,4 +14,4 @@ Debian Gang 😎
 # Tools 🔧
 ![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Main%20Editor-PyCharm-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-<p><a href="https://blog.theindiandev.xyz"><img src=https://statusembed.theindiandev.xyz/api/557467854266433537.png width="600" height="512"/></a></p>
+<p><a href="https://discord.gg/qEYbuWu5NE"><img src=https://statusembed.theindiandev.xyz/api/557467854266433537.png width="600" height="512"/></a></p>
