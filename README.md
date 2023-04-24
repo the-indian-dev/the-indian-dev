@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi I am @the-indian-dev. I am a student software developer based in India. Except coding I like badminton and Physics.
-Debian Gang 😎
+Hi I am @the-indian-dev. I am a student software developer based in India. Except programming I like Chess, Video Games, Electrical Engineering, Mathematics and Physics(I hate Chemistry very much).
+I use Debian or Debian-based distros 😎
 # How to reach me 📬
 <p><a href="https://discord.com/users/557467854266433537"><img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="50" height="50"/></a><a href="https://theindiandev.in"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" width="50" height="50"/></a><a href="https://blog.theindiandev.in"><img src=https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_rss-512.png width="50" height="50"/></a></p>
 
