@@ -10,7 +10,7 @@ I use Debian or Debian-based distros 😎
 [![Status Embed](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=status-embed&theme=dracula)](https://github.com/the-indian-dev/status-embed)
 [![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=personal-website&theme=dracula)](https://github.com/the-indian-dev/personal-website)
 # Stuff I know 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=java,c,C++,dart,javascript&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-indian-dev&hide=java,c,C++,dart,Procfile&theme=dracula)  
 # Tools 🔧
 ![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Main%20Editor-Vim-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
