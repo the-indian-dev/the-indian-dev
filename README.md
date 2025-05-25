@@ -12,19 +12,18 @@ BTW I USE ARCH!!!111 😎
 
 ---
 
-![the-indian-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-indian-dev&count_private=true&show_icons=true&theme=dracula)
-
-<h3>Some Of My Projects 🌟</h3>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-indian-dev&count_private=true&show_icons=true&theme=dracula">
+  <h3>Some Of My Projects 🌟</h3>
   <a href="https://github.com/the-indian-dev/sakuya-ac">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=sakuya-ac&theme=dracula" />
   </a>
   <a href="https://github.com/the-indian-dev/personal-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=personal-website&theme=dracula" />
   </a>
-  <a href="https://github.com/the-indian-dev/patchouli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=patchouli&theme=dracula" />
+  <a href="https://github.com/the-indian-dev/lightdm-webkit2-theme-durvana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=lightdm-webkit2-theme-durvana&theme=dracula" />
   </a>
 </div>
 
