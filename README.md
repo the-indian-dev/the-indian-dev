@@ -25,6 +25,9 @@ BTW I USE ARCH!!!111 😎
   <a href="https://github.com/the-indian-dev/lightdm-webkit2-theme-durvana">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=lightdm-webkit2-theme-durvana&theme=dracula" />
   </a>
+  <a href="https://github.com/the-indian-dev/lightdm-webkit2-theme-durvana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-indian-dev&repo=cirnoysf&theme=dracula" />
+  </a>
 </div>
 
 
